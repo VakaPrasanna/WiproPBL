@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author vakap
+ *
+ */
+module LanguageBasics {
+}
